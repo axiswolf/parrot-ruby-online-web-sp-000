@@ -4,5 +4,3 @@ def parrot(input="Squawk!")
   say = gets.chomp
   puts"say"
 end
-
-parrot
