@@ -2,5 +2,5 @@
 # returns the phrase
 def parrot(say="Squawk!")
   say = gets.chomp
-  puts"say"
+  puts"#{say}"
 end
