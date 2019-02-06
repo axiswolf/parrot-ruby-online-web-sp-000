@@ -4,3 +4,5 @@ def parrot(input="Squawk!")
   say = gets.string
   puts"say"
 end
+
+parrot
